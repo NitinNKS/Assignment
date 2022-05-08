@@ -1,0 +1,6 @@
+
+1. create a new directory named stage1_review
+2.create a multiple files such as Add.java, Sub.js, Multiply.py and Division.cs
+3. create a day4.sh
+4. writing the logic in day4.sh
+

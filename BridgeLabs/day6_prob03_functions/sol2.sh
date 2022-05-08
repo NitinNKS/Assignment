@@ -1,0 +1,1 @@
+# 2. Write a function to check if the two numbers are Palindromes
