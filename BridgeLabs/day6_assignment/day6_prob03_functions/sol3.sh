@@ -3,3 +3,5 @@
 # a. Write function check if number is Prime
 # b. Write function to get the Palindrome.
 # c. Check if the Palindrome number is also prime
+
+

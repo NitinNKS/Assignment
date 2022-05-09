@@ -1,1 +1,0 @@
-# 3. Write a program that takes a input and determines if the number is a prime.
