@@ -1,7 +1,7 @@
 
 for files in `ls *.java`
 do 
-		folderName ='echo $files | awk -F. {print $1 "              " $2}'
+		testcopy='echo $files | awk -F. {print $1 "              " $2}'
 		echo $files
-		echo $folderName
+		echo $testcopy
 done
