@@ -1,5 +1,5 @@
-#1.  Write a program that reads 5 Random 3 Digit values and then outputs the minimum
-#    and the maximum value
+    #1.  Write a program that reads 5 Random 3 Digit values and then outputs the
+    # minimum and the maximum value
 
 
 num1=$((RANDOM%900+100))

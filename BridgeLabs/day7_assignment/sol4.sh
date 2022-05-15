@@ -1,5 +1,9 @@
 
 
+
+#4. Write a Program to show Sum of three Integer adds to ZERO
+
+
   declare -a arr 
   arr[0]="0"
   arr[1]="-1"

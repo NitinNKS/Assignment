@@ -1,3 +1,23 @@
+
+<<comment
+
+ Flip Coin Simulation - This problem displays the winner Heads or Tails
+
+ uc -1 : As a Simulator start with Flipping a Coin to Display Heads or
+ Tails as winner - Use ((RANDOM)) to find Heads or Tails - Name the file flipCoinSimulator.sh
+
+uc -2 : As a simulator, loop through Multiple times of flipping a coin
+and show number of times head and tail has won
+
+uc -3 : Modify the earlier UC 2 to continue till either of them have won 21
+times. Show if it’s a Win or Tie. If Win then who won and by how much
+
+uc -4 : Extend UC 3 to ensure if its tie then the game continues till the
+difference of minimum 2 points is achieved
+
+comment
+
+
 #varibles
 
 counter=1

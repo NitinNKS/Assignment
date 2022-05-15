@@ -1,11 +1,15 @@
 
 
-#5. Unit Conversion
+<<comment
 
-#a. 1ft = 12 in then 42 in = ? ft
-#b. Rectangular Plot of 60 feet x 40 feet in meters
-#c. Calculate area of 25 such plots in acres
+5. Unit Conversion
 
+a. 1ft = 12 in then 42 in = ? ft
+b. Rectangular Plot of 60 feet x 40 feet in meters
+c. Calculate area of 25 such plots in acres
+
+
+comment
 
 
 # 5a 

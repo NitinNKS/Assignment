@@ -1,4 +1,8 @@
-x
+
+
+#2.  Extend the above program to sort the array and then find the 2nd largest
+#and the 2nd smallest element.
+
 
 
 echo "enter maximum number"

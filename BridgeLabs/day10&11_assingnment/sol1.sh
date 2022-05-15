@@ -1,4 +1,20 @@
 
+<<comment
+
+Arithmetic Computation& Sorting
+
+This problem computes different arithmetic expressions and Sorts the results
+uc-1 : Write program to take three inputs – a, b & c
+uc-2 : Compute a + b * c
+uc-3 : Compute a * b + c
+uc-4 : Compute c + a / b
+uc-5 : Compute a % b + c
+uc-6 : Store the results in a Dictionary for every Computation
+uc-7 : Read the values from the Dictionary into the array
+uc-8 : Sort the results to show the Computation Result in the Descending Order
+uc-9 : Sort the results to show the Computation Value in Ascending Order
+
+comment
 
 read -p "Enter any  three numbers in same row followed by space  : " a b c
 echo $a $b $c 
